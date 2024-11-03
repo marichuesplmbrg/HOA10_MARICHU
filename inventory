@@ -1,0 +1,8 @@
+[elasticsearch]
+192.168.65.16 ansible_user=marichu
+
+[kibana]
+192.168.65.18
+
+[logstash]
+192.168.65.19
